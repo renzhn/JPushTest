@@ -1,0 +1,10 @@
+D:\pushTestService\pushTestService\bin\pushTestService.dll
+D:\pushTestService\pushTestService\bin\pushTestService.pdb
+D:\pushTestService\pushTestService\obj\Debug\ResolveAssemblyReference.cache
+D:\pushTestService\pushTestService\obj\Debug\pushTestService.dll
+D:\pushTestService\pushTestService\obj\Debug\pushTestService.pdb
+E:\pushTestService\pushTestService\bin\pushTestService.dll
+E:\pushTestService\pushTestService\bin\pushTestService.pdb
+E:\pushTestService\pushTestService\obj\Debug\pushTestService.dll
+E:\pushTestService\pushTestService\obj\Debug\pushTestService.pdb
+E:\pushTestService\pushTestService\obj\Debug\pushTestService.csprojResolveAssemblyReference.cache
