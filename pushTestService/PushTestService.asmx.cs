@@ -13,22 +13,18 @@ namespace pushTestService
         {
             var msg = new
             {
-                type = "notice",
-                id = "ID",
-                title = "新闻标题",
-                content = "新闻内容"
+                id = "2241",
+                content = "2012-2013学年第二学期考试违规情况通报"
             };
             return JPushHelper.SendNotification(1, "119074021", DynamicJson.Serialize(msg)) ;
         }
 
         [WebMethod]
-        public string BroadcastNotification(string id, string title, string content)
+        public string BroadcastNotification(string id, string content)
         {
             var msg = new
             {
-                type = "notice",
                 id = id,
-                title = title,
                 content = content
             };
             return JPushHelper.BroadcastNotification(1, DynamicJson.Serialize(msg));
